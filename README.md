@@ -77,7 +77,7 @@ After adding rolling-average features:
 ## Technologies Used
 
 * Python
-* pandas & NumPy
+* pandas
 * scikit-learn
 * Matplotlib
 * Jupyter Notebook
